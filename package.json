@@ -6,7 +6,8 @@
   "module": "dist/mixins.js",
   "types": "dist/mixins.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "scripts": {
     "build": "tsc",
